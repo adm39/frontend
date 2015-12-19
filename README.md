@@ -7,4 +7,5 @@ Registration succesful, Email confirmation successful, Backup Email confirmation
 The access-controlled page holds the data & can only be accessed when logged in.
 
 backupemail.php - uses phpmailer functions to send out "Backup Successful" email.
-[passwords have already been changes, so you cant hack our email!]
+
+*DISCLAIMER* -[all passwords have already been changed, so please do not try to hack us!]
